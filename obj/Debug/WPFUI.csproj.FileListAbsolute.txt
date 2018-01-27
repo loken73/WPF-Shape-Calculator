@@ -1,0 +1,17 @@
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\bin\Debug\ShapeCalculatorWPF.exe.config
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\bin\Debug\ShapeCalculatorWPF.exe
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\bin\Debug\ShapeCalculatorWPF.pdb
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\WPFUI.csprojResolveAssemblyReference.cache
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\MainWindow.g.cs
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\App.g.cs
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF_MarkupCompile.cache
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF_MarkupCompile.lref
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\MainWindow.baml
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF.g.resources
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF.Properties.Resources.resources
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\WPFUI.csproj.GenerateResource.Cache
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF.exe
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF.pdb
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\3DShapeWindow.g.cs
+c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\TwoDShapeWindow.g.cs
