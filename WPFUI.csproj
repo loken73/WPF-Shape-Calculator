@@ -57,6 +57,10 @@
     <Compile Include="3DShapeWindow.xaml.cs">
       <DependentUpon>3DShapeWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Derived2DClasses\Circle.cs" />
+    <Compile Include="Interfaces\ICircular.cs" />
+    <Compile Include="AbstractClasses\TwoDimensionalShape.cs" />
+    <Compile Include="Interfaces\INotCircular.cs" />
     <Compile Include="TwoDShapeWindow.xaml.cs">
       <DependentUpon>TwoDShapeWindow.xaml</DependentUpon>
     </Compile>
@@ -106,6 +110,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Derived3DClasses\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

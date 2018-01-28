@@ -8,6 +8,6 @@ namespace ShapeCalculatorWPF.AbstractClasses
 {
     public interface ICircular
     {
-        float Circumference { get; }
+        double Circumference { get; }
     }
 }
