@@ -12,7 +12,7 @@ namespace ShapeCalculatorWPF.Derived2DClasses
     {
         private double _radius;
 
-        public override float Area
+        public override double Area
         {
             get
             {
@@ -20,7 +20,7 @@ namespace ShapeCalculatorWPF.Derived2DClasses
             }
         }
 
-        public float Circumference
+        public double Circumference
         {
             get
             {

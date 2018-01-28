@@ -8,7 +8,7 @@ namespace ShapeCalculatorWPF
 {
     public abstract class TwoDimensionalShape
     {
-        public abstract float Area { get; }
+        public abstract double Area { get; }
 
     }
 }
