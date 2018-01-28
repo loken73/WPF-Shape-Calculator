@@ -32,7 +32,9 @@ namespace ShapeCalculatorWPF
 
         private void TwoDShape_submit_Click(object sender, RoutedEventArgs e)
         {
-            
+            this.Hide();
+            TwoDShapeWindow twoDshapes = new TwoDShapeWindow(this);
+            twoDshapes.Show();
         }
 
         private void ThreeDShape_Submit_Click(object sender, RoutedEventArgs e)

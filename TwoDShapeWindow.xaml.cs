@@ -23,5 +23,10 @@ namespace ShapeCalculatorWPF
         {
             InitializeComponent();
         }
+
+        public TwoDShapeWindow(MainWindow main)
+        {
+
+        }
     }
 }

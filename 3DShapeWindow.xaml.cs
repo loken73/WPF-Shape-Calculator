@@ -23,5 +23,11 @@ namespace ShapeCalculatorWPF
         {
             InitializeComponent();
         }
+
+        public _3DShapeWindow(MainWindow main)
+        {
+
+        }
     }
+
 }
