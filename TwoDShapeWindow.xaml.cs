@@ -28,5 +28,25 @@ namespace ShapeCalculatorWPF
         {
 
         }
+
+        private void Circle_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Square_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Rectangle_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Triangle_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

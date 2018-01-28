@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ShapeCalculatorWPF"
         mc:Ignorable="d"
-        Title="Area Calculator" Height="300" Width="380" ResizeMode="NoResize" WindowState="Normal">
+        Title="Area Calculator" Height="320" Width="400" ResizeMode="NoResize" WindowState="Normal" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>

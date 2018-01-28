@@ -28,6 +28,26 @@ namespace ShapeCalculatorWPF
         {
 
         }
+
+        private void Cylinder_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Cone_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Sphere_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Cube_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 
 }

@@ -15,3 +15,5 @@ c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\Shap
 c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\ShapeCalculatorWPF.pdb
 c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\3DShapeWindow.g.cs
 c:\users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\TwoDShapeWindow.g.cs
+C:\Users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\3DShapeWindow.baml
+C:\Users\f29pl\source\repos\ShapeCalculatorWPF\ShapeCalculatorWPF\obj\Debug\TwoDShapeWindow.baml
