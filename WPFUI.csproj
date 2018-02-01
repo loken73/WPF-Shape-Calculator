@@ -58,7 +58,9 @@
       <DependentUpon>3DShapeWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="Derived2DClasses\Circle.cs" />
+    <Compile Include="Derived2DClasses\Rectangle.cs" />
     <Compile Include="Derived2DClasses\Square.cs" />
+    <Compile Include="Derived2DClasses\Triangle.cs" />
     <Compile Include="Interfaces\ICircular.cs" />
     <Compile Include="AbstractClasses\TwoDimensionalShape.cs" />
     <Compile Include="Interfaces\INotCircular.cs" />

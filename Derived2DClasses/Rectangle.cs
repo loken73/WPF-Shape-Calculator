@@ -29,9 +29,10 @@ namespace ShapeCalculatorWPF.Derived2DClasses
             }
         }
 
-        public Square(int sideLength)
+        public Rectangle(int length, int width)
         {
-            this._sideLength = sideLength;
+            this._length = length;
+            this._width = width;
         }
     }
 }
